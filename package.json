@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/comdan66/test/issues"
   },
-  "homepage": "https://github.com/comdan66/test#readme"
+  "homepage": "https://github.com/comdan66/test#readme",
+  "dependencies": {
+    "@oawu/queue": "^1.0.10"
+  }
 }
